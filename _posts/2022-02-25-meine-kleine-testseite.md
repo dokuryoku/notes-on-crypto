@@ -13,4 +13,4 @@ categories: jekyll update
 1. zwei
 1. drei
 
-[wikipedia](http://wikipedia.com)
+[Link zu Wikipedia](http://wikipedia.com){:target="_blank"}
