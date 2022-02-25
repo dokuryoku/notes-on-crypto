@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Anekdoten mit Geld"
+title:  "Meine kleine Testeite"
 date:   2022-02-25 18:17:09 +0100
 categories: jekyll update
 ---
